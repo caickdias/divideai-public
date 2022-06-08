@@ -1,6 +1,6 @@
 # Divide aí!
 
-Lancei este aplicativo na App e Play Store. Feito com React Native e desenvolvido 100% por mim.
+Lancei esse aplicativo na App e Play Store. Feito com React Native e desenvolvido 100% por mim.
 
 O Divide aí! é um aplicativo para auxiliar o usuário na hora de dividir as contas em bares, restaurantes e etc. O usuário insere as pessoas que estão na "mesa" e aí adiciona um item e clica em quem o consumiu e já faz a divisão da conta, tudo de forma fácil e rápida.
 
