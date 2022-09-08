@@ -1,6 +1,6 @@
 # Divide aí!
 
-Fully designed, developed and released this app on both App and Play Store. Made with React Native.
+Fully designed, developed and released this app on both (App)[https://apps.apple.com/pt/app/divide-a%C3%AD/id1622207402] and [Play Store](https://play.google.com/store/apps/details?id=com.caick_andrade.divideai). Made with React Native.
 
 Divide aí! is an app for spliting group bills when you go to restaurants, etc. You just have to add everyone's name then you add the items consumed and selected who consumed that item. The app will just do the rest.
 
